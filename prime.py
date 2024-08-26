@@ -1,0 +1,5 @@
+c = str(input("Enter the Alphabet "))
+print("The ASCII value of '" + c + "' is", ord(c))
+print("Now,",end=' ')
+s=int(input("Enter the Number "))
+print("It's Character is", chr(s))
